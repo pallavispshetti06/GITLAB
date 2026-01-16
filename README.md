@@ -3,5 +3,5 @@ Pattanashetti
 manasa
 masss
 hit man 
-Wednesday addams
+Wednesday 
 # GITLAB
